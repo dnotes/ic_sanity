@@ -1,0 +1,3 @@
+<?php
+
+include_once('ic_sanity.features.inc');
